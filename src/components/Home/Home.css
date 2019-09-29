@@ -1,0 +1,127 @@
+.Home {
+  display: block;
+}
+
+.Home .Title {
+  font-display: auto;
+  font-size: 14px;
+  font-weight: 600;
+  color: #b2b2b2;
+  position: relative;
+  float: left;
+  margin: 20px 0px 10px 0px;
+}
+
+.Home .SearchSubTitle {
+  font-display: auto;
+  font-size: 14px;
+  font-weight: 600;
+  color: #b2b2b2;
+  position: relative;
+  float: left;
+  margin: 45px 0px 10px 10px;
+}
+
+.Home .SearchTitle {
+  font-display: auto;
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  position: relative;
+  float: left;
+  margin: 20px 0px 10px 0px;
+}
+
+.Home .RightTitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: #b2b2b2;
+  position: relative;
+  float: right;
+  margin: 20px 10px 10px 0px;
+}
+
+.LoadMore {
+  width: 100%;
+  font-size: 20px;
+  background-color: #00FF99;
+  height: 52px;
+  position: relative;
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+  font-size: 20px;
+  font-family: 'Gill Sans',
+    'Gill Sans MT',
+    Calibri,
+    'Trebuchet MS',
+    sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.Home .AutoPlay {
+  position: relative;
+  background-color: #212121;
+  width: 52px;
+  height: 25px;
+  margin: 17px 0px 0px 0px;
+  float: right;
+  cursor: pointer;
+}
+
+.Home .AutoPlay .Left {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  float: right;
+}
+
+.Home .NoImage {
+  max-height: 350px;
+  margin: 10px 0px 20px 0px;
+}
+
+.Home .NoTitle {
+  color: #ffffff;
+  font-family: 'Gill Sans',
+    'Gill Sans MT',
+    Calibri,
+    'Trebuchet MS',
+    sans-serif;
+}
+
+.Home .GoBack {
+  color: #000000;
+  font-family: 'Gill Sans',
+    'Gill Sans MT',
+    Calibri,
+    'Trebuchet MS',
+    sans-serif;
+  background-color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.Home .AutoPlay .Right {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  float: right;
+  background-color: #00FF99;
+}
+
+.Home .AutoPlay .Button {
+  margin-top: -2px;
+}
+
+.Home .AutoPlay .Left .Button span {
+  color: #ffffff;
+  font-size: 9px;
+}
+
+.Home .AutoPlay .Right .Button span {
+  color: #212121;
+  font-size: 9px;
+}

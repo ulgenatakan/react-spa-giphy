@@ -1,0 +1,15 @@
+.LogoDiv {
+  width: 200px;
+  height: 60px;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
+.LogoImg {
+  height: 100%;
+  display: block;
+  position: relative;
+  margin-left: -15px;
+  display: ;
+}
